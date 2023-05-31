@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @basilaspire
 - 👀 I’m interested in Reinventing Finance
 - 🌱 I’m currently working on Vue 3 / Quasar 2
-- 📫 How to reach me basil.george@aspireapp.com
+- 📫 How to reach me basil.george@aspireapp.com / desbezgeo@gmail.com
 
 <!---
 basilaspire/basilaspire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
